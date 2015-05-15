@@ -1,0 +1,14 @@
+body {
+    background: slategray;
+}
+body::after{
+    content:"NFV Study : Javascript - use Console dev tool";
+    font-family: 'Oxygen', sans-serif;
+    font-weight: bold;
+    color:darkolivegreen;
+    font-size: 75px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+
+}
